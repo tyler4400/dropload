@@ -123,3 +123,5 @@ $('.element').dropload({
 ## dropload使用交流群
 
 [群号：290725368，点击加群](http://shang.qq.com/wpa/qunwpa?idkey=2c58606fdfb5d6be4021a678e1506fdbbbc480aabdca0eeb115c2f4ff5bc69ee)
+
+我pull下来改一改 20180813
